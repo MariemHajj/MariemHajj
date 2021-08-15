@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mariem Hajjem
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning NLP
+- 📫 How to reach me : mariemhajjem10@gmail.com
